@@ -28,6 +28,14 @@ Health Coach is a web application designed to assist users with their health jou
 
 ---
 
+## Features
+
+- [x] **Chatbot** powered by **IBM Watson** for health and fitness guidance
+- [x] **Diet Plan** tailored to individual needs
+- [x] **Exercise Program** section with workout routines
+- [x] **Nutrition** section providing tips on healthy eating
+- [x] Mobile responsive design
+- [x] Interactive and user-friendly interface
 
 ---
 
