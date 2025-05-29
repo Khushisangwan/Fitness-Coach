@@ -1,4 +1,13 @@
+<h1 align="center">
+    <img alt="project" title="#About" src="./images/healthcoach.png" />
+</h1>
 
+<h1 align="center">
+  <a href="https://healthcoachz.netlify.app">Fitness Coach App</a>
+</h1>
+<h4 align="center"> 
+	 Status: Finished
+</h4>
 
 <p align="center">
  <a href="#about">About</a> •
