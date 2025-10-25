@@ -71,17 +71,6 @@ $ npm start
 ---
 ```
 
-## Tech Stack
-
-The following tools were used in the construction of the project:
-
-#### **Platform**
-- **HTML** for the basic structure of the website
-- **CSS** for styling and responsive design
-- **JavaScript** for the interactive elements and chatbot functionality
-
-#### **External Services**
-- **IBM Cloud** → Provides the chatbot functionality powered by **IBM Watson**
 
 #### **Tools Used**
 - **[IBM Watson](https://www.ibm.com/cloud/watson-assistant/)** → Used for building the chatbot that provides health and fitness guidance.
