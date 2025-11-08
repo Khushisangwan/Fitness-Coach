@@ -39,7 +39,19 @@ Health Coach is a web application designed to assist users with their health jou
 
 ---
 
+## How it works
 
+1. **Frontend** (this repository): Built using React and integrated with IBM Watson API for the chatbot functionality.
+2. **Backend** (external or API service): Integrates third-party APIs for real-time health data and IBM Watson for chatbot functionality.
+
+### Pre-requisites
+
+Before you begin, make sure you have the following tools installed on your machine:
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/)
+- [VSCode](https://code.visualstudio.com/) (or any code editor)
+
+#### Running the web application (Frontend)
 
 ```bash
 # Clone this repository
